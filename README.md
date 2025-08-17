@@ -1,6 +1,8 @@
-# CS171 — Formal Verification of Pohlig–Hellman (Coq)
+# CS171 - Formal Verification of Pohlig–Hellman (Coq)
 
 This repository contains a machine-checked Coq development of the Pohlig–Hellman algorithm for solving discrete logarithms. It formalizes finite cyclic groups, reduces discrete logs to prime-power cases, and reconstructs solutions via the Chinese Remainder Theorem.
+
+This project is made in fulfillment of requirements for CS 171 Formal Verification and Logic elective class in UP Diliman.
 
 ## Repository layout
 - `coq/` — Coq `.v` source files  
