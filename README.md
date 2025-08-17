@@ -48,5 +48,21 @@ coqide coq/pohlig.v
 - Meluisa Montealto
 - Nicole Santos
 
+## References
+
+- Pohlig, S. C., & Hellman, M. E. (1978). *An improved algorithm for computing logarithms over GF(p) and its cryptographic significance*. IEEE Transactions on Information Theory, 24(1), 106–110.  
+
+- Menezes, A. J., van Oorschot, P. C., & Vanstone, S. A. (1996). *Handbook of Applied Cryptography*. CRC Press.  
+
+- Gallian, J. A. (2017). *Contemporary Abstract Algebra* (9th ed.). Cengage Learning.  
+
+- Coq Development Team. (2023). *The Coq Proof Assistant Reference Manual*. INRIA.  
+  Available at: [https://coq.inria.fr/distrib/current/refman/](https://coq.inria.fr/distrib/current/refman/)  
+
+- Lidl, R., & Niederreiter, H. (1997). *Finite Fields*. Cambridge University Press.  
+
+- Ireland, K., & Rosen, M. (1990). *A Classical Introduction to Modern Number Theory*. Springer.  
+
+
 ## License
 MIT 
